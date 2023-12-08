@@ -2,5 +2,5 @@
 
 ## 书籍
 
-- [] [《Python Crash Course》](https://ehmatthes.github.io/pcc/)
-- [] [《Fluent Python》](https://fluentpython.com/)
+- [x] [《Python Crash Course》](https://ehmatthes.github.io/pcc/)
+- [x] [《Fluent Python》](https://fluentpython.com/)
