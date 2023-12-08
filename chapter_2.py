@@ -109,4 +109,11 @@ print("language:\n\tpython\n\tC\n\tjavascript")
 
 # stripping whitespace
 
+""" 
+in order to make sure you can try you best to avoid the errors caused by the extra whitespace, python can look for extra whitespace on the right and left sides of a string. you can also strip whitespace from the left side, the right side, or both sides of a string.
+"""
 
+favorite_language = "python "
+print(favorite_language)
+print(favorite_language.rstrip())
+print(favorite_language)
